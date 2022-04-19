@@ -1,4 +1,11 @@
 # GoFo
+
+For full Project Info please see the SRS below
+
+[FinalGoFoSRSv1.0.pdf](https://github.com/MohammedHany1/GoFo/files/8516207/FinalGoFoSRSv1.0.pdf)
+
+
+
 Class User:
 	Create new user Admin, Player or Owner and contain abstract homescreen and it controls the eWallet and allow user to
 	do operations withdraw and deposit
